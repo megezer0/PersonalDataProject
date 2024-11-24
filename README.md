@@ -15,4 +15,4 @@ Currently, I am searching about which tools/ML models I can use for text topic a
 
 My plan for visalization, except basic EDA graphs, is to create a mix of Bubble Chart and Network Connection. Each bubble will represent a word, size of the bubble will depend on the total usage and each bubble will show a list of the dates that it is used(Interactively, when cursor is on the bubble). Each bubble will be connected to the words that are also used in the same conversation or topic. Each topic will be represented by a different colour.
 
-Optionally, I may present all the visualized data on a website.
+Optionally, I may present all the visualized data on a website, but it is like a further step.
