@@ -1,5 +1,8 @@
-My ChatGPT Conversations Data Analysis
+Analyzing My Conversations With ChatGPT
 
+Final Project Report (also included in the directory): https://docs.google.com/document/d/1KqjLGb6G05j7HyhFsULbOOn3qYlwv77AXGD5at8mss0/edit?usp=sharing
+
+Proposal:
 The goal of this project is to analyze my ChatGPT usage to uncover patterns, topics, and trends, and to visualize these insights.
 
 There is no specific hypothesis for now. However, here are some research questions:
